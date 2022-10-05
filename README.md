@@ -1,2 +1,3 @@
 # R-project
-R programming, Machine Learning using R
+
+This is my repository for my practiced R programming projec and Machine learning using R practiced project.
